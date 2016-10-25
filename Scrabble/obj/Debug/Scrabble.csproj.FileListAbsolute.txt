@@ -1,0 +1,6 @@
+c:\users\jgarcia\documents\visual studio 2013\Projects\slnScrabble\Scrabble\bin\Debug\Scrabble.exe.config
+c:\users\jgarcia\documents\visual studio 2013\Projects\slnScrabble\Scrabble\bin\Debug\Scrabble.exe
+c:\users\jgarcia\documents\visual studio 2013\Projects\slnScrabble\Scrabble\bin\Debug\Scrabble.pdb
+c:\users\jgarcia\documents\visual studio 2013\Projects\slnScrabble\Scrabble\obj\Debug\Scrabble.exe
+c:\users\jgarcia\documents\visual studio 2013\Projects\slnScrabble\Scrabble\obj\Debug\Scrabble.pdb
+c:\users\jgarcia\documents\visual studio 2013\Projects\slnScrabble\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
